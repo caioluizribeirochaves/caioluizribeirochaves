@@ -103,6 +103,6 @@ Me chamo Caio Luiz, tenho 27 anos e sou natural de Brasília-DF. Sou formado em 
 
 </p>
 
-<div align=center>
-    <img src="https://raw.githubusercontent.com/caioluizribeirochaves/caioluizribeirochaves/output/snake.svg" alt="Snake animation" />
-</div>
+
+![snake gif](https://github.com/caioluizribeirochaves/caioluizribeirochaves/blob/output/github-snake-dark.svg)
+
