@@ -16,7 +16,7 @@ Me chamo Caio Luiz, tenho 27 anos e sou natural de Brasília-DF. Sou formado em 
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/caioluizribeirochaves?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/caioluizribeirochaves?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores"
         />
     </a>
     <a href="https://www.linkedin.com/in/caio-luiz-4b8b20274">
@@ -84,7 +84,7 @@ Me chamo Caio Luiz, tenho 27 anos e sou natural de Brasília-DF. Sou formado em 
 <br/>
 <br/>
 
-
+<!--
 ### 📊 Estatísticas
 
 <p>
@@ -102,6 +102,7 @@ Me chamo Caio Luiz, tenho 27 anos e sou natural de Brasília-DF. Sou formado em 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioluizribeirochaves&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 
 </p>
+-->
 
 
 ![snake gif](https://github.com/caioluizribeirochaves/caioluizribeirochaves/blob/output/github-snake-dark.svg)
