@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Caio Luiz
 
-**`Desenvolvedor Backend`**
+**`Desenvolvedor Back-end`**
 
 Me chamo Caio Luiz, tenho 27 anos e sou natural de Brasília-DF. Sou formado em Analise e Desenvolvimento de Sistemas, pela universidade Cruzeiro do Sul. Sou apaixonado por tecnologia e atualmente estou aprofundando meus conhecimentos através da programação.
 
